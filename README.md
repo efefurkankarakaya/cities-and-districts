@@ -1,10 +1,12 @@
 # Cities and Districts (in JSON)
 
-This data is acquired from <a href="https://uetds.uab.gov.tr/teknik-dokuman">https://uetds.uab.gov.tr/teknik-dokuman</a> page which is publicly available.
+The original data is obtained from the publicly available page at <a href="https://uetds.uab.gov.tr/teknik-dokuman">https://uetds.uab.gov.tr/teknik-dokuman</a>.
 
 - Original data was in excel format and is converted to JSON and added geolocation data for the cities.
 
 - Sorted according to the city code, each index actually references to the city code.
+
+- Each district sorted alphabetically according to the UTF-8.
 
 - Each city has their geolocation data with latitude and longitude.
 
