@@ -14,6 +14,8 @@ The original data is obtained from the publicly available page at <a href="https
 
 ## Data Structure
 
+<b>Note:</b> The first object is empty, as intended. City codes start from 1, and I wanted the array to follow the same structure.
+
 ```
 data: [
   {
