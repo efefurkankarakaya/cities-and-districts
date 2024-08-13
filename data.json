@@ -1,5 +1,13 @@
 [
-  {},
+  {
+    "cityName": "",
+    "cityCode": 0,
+    "location": {
+      "latitude": "0",
+      "longitude": "0"
+    },
+    "districts": []
+  },
   {
     "cityName": "ADANA",
     "cityCode": 1,
